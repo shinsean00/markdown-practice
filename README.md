@@ -61,9 +61,9 @@ _이텔릭_
  # 이미지(Images)
 ![]()
 
-![HEROPY](https://heropy.blog/css/images/logo.png)
+![HEROPY](https://dreamy-sprite-f0d10b.netlify.app/images/starbucks_logo.png)
 
-[![HEROPY](https://heropy.blog/css/images/logo.png)](https://heropy.blog/)
+[![HEROPY](https://dreamy-sprite-f0d10b.netlify.app/)
 
 # 인용문(BlockQuote)
 
@@ -94,14 +94,13 @@ target ="_blank">GOOGLE</a>
 # 표(Table)
 
 position 속성
-
 값 | 의미 | 기본값
 --|:--:|--:
 static | 기준 없음 | 0
 relative | 요소자신 | X
 
 
-# 원시 HTML(Raw HTML)
+# 원시 HTML
 
 동해물과 <u>백두산</u>이 마르고 닳도록<br/>
 하느님이 보우하사 우리나라 만세
