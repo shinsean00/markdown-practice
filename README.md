@@ -61,9 +61,10 @@ _이텔릭_
  # 이미지(Images)
 ![]()
 
-![HEROPY](https://dreamy-sprite-f0d10b.netlify.app/images/starbucks_logo.png)
+![STARBUCKS](https://dreamy-sprite-f0d10b.netlify.app/images/starbucks_logo.png)
+<!-- 이미지 누르면 url 이동 -->
+[![STARBUCKS](https://dreamy-sprite-f0d10b.netlify.app/images/starbucks_logo.png)](https://www.starbucks.co.kr/index.do) 
 
-[![HEROPY](https://dreamy-sprite-f0d10b.netlify.app/)
 
 # 인용문(BlockQuote)
 
